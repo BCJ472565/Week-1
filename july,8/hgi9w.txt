@@ -1,5 +1,0 @@
-comments
-images
-
-
-block and inline
